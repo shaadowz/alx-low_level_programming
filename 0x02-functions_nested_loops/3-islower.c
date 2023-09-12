@@ -5,9 +5,9 @@
  *
  * Return: 1 for lowercase character or 0 for anything else
  */
-int_islower(int x)
+int _islower(int x)
 {
-	if (x >= 97 && c <= 122)
+	if (x >= 97 && x <= 122)
 	{
 		return (1);
 	}
