@@ -1,5 +1,5 @@
 #include "main.h"
-
+#ifndef "main.h"
 /**
  * print_alphabet - Print alphabet in lowercase
  * Return: 0 
